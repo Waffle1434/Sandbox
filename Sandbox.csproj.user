@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="Sandbox\Controls\IdentSwapDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Sandbox\Controls\Info.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Sandbox\Controls\ListpanelV2.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Sandbox\Controls\ListViewEx.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Sandbox\Controls\SuccessMessage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Sandbox\Editor\PropertyEditor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Sandbox\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Sandbox\Forms\About.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Sandbox\Forms\StartupScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
